@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/https//:aroldmauger.github.io/creatures_fantastiques/static/css/main.e5ac30aa.css",
-    "main.js": "/https//:aroldmauger.github.io/creatures_fantastiques/static/js/main.0545ed6f.js",
-    "static/js/787.2c0e5b38.chunk.js": "/https//:aroldmauger.github.io/creatures_fantastiques/static/js/787.2c0e5b38.chunk.js",
+    "main.js": "/https//:aroldmauger.github.io/creatures_fantastiques/static/js/main.43cf00b8.js",
+    "static/js/787.18ccea8e.chunk.js": "/https//:aroldmauger.github.io/creatures_fantastiques/static/js/787.18ccea8e.chunk.js",
     "static/media/book_add.jpg": "/https//:aroldmauger.github.io/creatures_fantastiques/static/media/book_add.39d19f3dbedefa81ee63.jpg",
     "index.html": "/https//:aroldmauger.github.io/creatures_fantastiques/index.html",
     "main.e5ac30aa.css.map": "/https//:aroldmauger.github.io/creatures_fantastiques/static/css/main.e5ac30aa.css.map",
-    "main.0545ed6f.js.map": "/https//:aroldmauger.github.io/creatures_fantastiques/static/js/main.0545ed6f.js.map",
-    "787.2c0e5b38.chunk.js.map": "/https//:aroldmauger.github.io/creatures_fantastiques/static/js/787.2c0e5b38.chunk.js.map"
+    "main.43cf00b8.js.map": "/https//:aroldmauger.github.io/creatures_fantastiques/static/js/main.43cf00b8.js.map",
+    "787.18ccea8e.chunk.js.map": "/https//:aroldmauger.github.io/creatures_fantastiques/static/js/787.18ccea8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5ac30aa.css",
-    "static/js/main.0545ed6f.js"
+    "static/js/main.43cf00b8.js"
   ]
 }
