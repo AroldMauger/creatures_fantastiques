@@ -1,6 +1,6 @@
 {
   "homepage": "https//:aroldmauger.github.io/creatures_fantastiques",
-  "name": "mon-vieux-grimoire-frontend",
+  "name": "mes_creatures_fantastiques",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
